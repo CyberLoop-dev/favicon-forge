@@ -1,0 +1,8 @@
+{
+  "name": "favicon-forge",
+  "version": "1.0.0",
+  "description": "Create SVG and PNG favicons in the browser.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
